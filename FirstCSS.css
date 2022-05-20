@@ -1,0 +1,309 @@
+
+body {
+    font-family: "NunitoSans Regular";
+    margin: 0;
+}
+body * {
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.button {
+    background: #E3B873;
+    box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.2);
+    border-radius: 2px;
+    outline: 0;
+    border: 0;
+    padding: 13px 33px;
+    color: #FFFFFF;
+    font-family: 'Nunito Sans';
+    font-style: italic;
+    font-size: 11px;
+    height: 37px;
+    width: 161px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+.header {
+    background-color: #131313;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+
+}
+.header-content {
+    display: flex;
+    justify-content: space-around;
+    height: 83px;
+    align-items: center;
+}
+.logo {
+    font-family: "Nunito Sans";
+    text-transform: uppercase;
+    font-size: 11px;
+    color: #E3B873;
+}
+    .header-navigation {
+    list-style: none;
+    display: flex;
+    }
+    .header-navigation_item {
+    margin-right: 47px;
+    font-size: 11px;
+    }
+    .header-navigation_item a {
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+    .picture {
+        background-image: url('images/image\ 4.3.png');
+        background-size: cover;
+        height: 707px;
+       
+        position: relative;
+      
+    }
+    .picture-overlay {
+        background-color: rgba(0, 0, 0, 0.7);
+        width: 1440px;
+        height: 707px;
+    }
+    .title {
+        margin: 0;
+        font-family: 'Yeseva One';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 40px;
+        line-height: 53px;
+        text-transform: uppercase;
+        width: 676.11px;
+        color: #FFFFFF;
+        padding-top: 194px;
+
+    }
+    .title span {
+        color: #E3B873;
+    }
+    
+    .firstp  {
+        max-width: 504px;
+        color: #FFFFFF;
+        font-family: 'Nunito Sans';
+        font-size: 22px;
+        line-height:36px;
+
+    }
+    .one-button {
+        font-family: 'Nunito Sans';
+        font-style: italic;
+        font-size: 11px;
+        background-color: #E3B873;
+        padding: 19px 42px 20px 41px;
+        color: #FFFFFF;
+        height: 51px;
+        width: 207px;
+        border: 1px solid #E3B873;
+        border-radius: 2px;
+        cursor: pointer;
+        margin-right: 20px;
+
+    }
+    .two-button {
+        font-family: 'Nunito Sans';
+        font-style: italic;
+        font-size: 11px;
+        background-color: rgba(0, 0, 0, 0);
+        color: #FFFFFF;
+        height: 51px;
+        width: 207px;
+        border-radius: 2px;
+        padding: 19px 23px 20px 22px;
+        cursor: pointer;
+        border: 1px solid #FFFFFF;
+    }
+   .contact {
+       color: #E3B873;
+       font-family: 'Nunito Sans Regular';
+        font-size: 11px;
+   }
+   .fonlisttwo {
+       height: 1074px;
+       background-color: black;
+
+   }
+   .otstup {
+       margin-left: 134px;
+   }
+   .spisok {
+       color: #FFFFFF;
+       text-decoration: none;
+       font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+
+color: #E3B873;
+   }
+   .ssilki {
+       list-style: none;
+       display: flex;
+     margin: 0;
+     padding: 0;
+     padding-left: 626.45px;
+     padding-top: 107px;
+   }
+   .firstspisok {
+       margin-right: 60.5px;
+   }
+   .spisok_two {
+    color: rgba(255, 255, 255, 0.3);
+   }
+   .one_element {
+       border-bottom-color: #E3B873;
+       padding-bottom: 6.68px;
+   }
+   .zag2 {
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 37px;
+    letter-spacing: -0.07em;
+    text-transform: uppercase;
+    margin-top: 53.04px;
+    margin-left: 134.45px;
+    color: #E3B873;
+   }
+   .text_p {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 27px;
+    margin-left: 134.45px;
+    margin-top: 34px;
+    color: #FFFFFF;
+    height: 86px;
+    width: 442px;
+   }
+   .zag_3 {
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    text-transform: uppercase;
+    margin-top: 0px;
+    margin-bottom: 6px;
+    
+    color: #E3B873;
+   }
+   .text_3 {
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 21px;
+    
+    color: #FFFFFF;
+   }
+   .s_zagolovkom_h3 {
+display: flex;
+   }
+   .four_elements {
+       margin-left: 134.45px;
+       margin-top: 42px;
+   }
+   .divs1 {
+       width: 161px;
+
+   } 
+   .stolbec2 {
+       margin-left: 29px;
+   }
+   .stolb1 {
+       height: 42px;
+   }
+   .stolb2 {
+       margin-top: 34px;
+   }
+    .otstup_2 {
+        width: 156px;
+    }
+    .otstup_3 {
+        margin-left: 34px;
+    }
+    .photos {
+        background: url(Images/fonna2.png);
+        width: 679px;
+        height: 482px;
+        margin-top: 45px;
+    margin-left: 50px;
+    }
+.photo_text {
+    display: flex;
+    
+}
+.strela {
+background: url(Images/Group.svg);
+width: 40.51px;
+height: 13.28px;
+}
+.tochka {
+    background: #FFFFFF;
+border-radius: 30px;
+width: 9.57px;
+height: 9.57px;
+margin-left: 17.54px;
+}
+.strelki {
+    display: flex;
+    align-items: center;
+    margin-left: 136.39px;
+    margin-top: 79.64px;
+}
+.pravaya {
+    transform: rotate(180deg);
+    margin-left: 29.5px;
+}
+.tochka_one {
+    margin-left: 29.5px;
+
+}
+.online_control {
+    color: #FFFFFF;
+    font-family: 'Yeseva One';
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 28px;
+text-align: center;
+text-transform: uppercase;
+margin-top: 92px;
+margin-bottom: 12.79px;
+}
+.logotip_1_3 {
+    background: url(Images/Line.svg);
+    width: 32px;
+    height: 1.54px;
+}
+.logotip_2 {
+    background: url(Images/Camera.svg);
+    width: 32.77px;
+    height: 28px;
+    margin-left: 9.47px;
+}
+.logotip {
+    display: flex;
+    align-items: center;
+    margin-left: 664.45px;
+
+}
+.logotip_3 {
+    margin-left: 7.76px;
+}
